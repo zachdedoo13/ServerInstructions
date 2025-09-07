@@ -19,3 +19,4 @@
 
 ### *Ignore unless needed*
   + **The ip is zachhomelab.org or bedrock and java, port is 25565 for java, & 19132 for bedrock**
+  + Other methods for joinin a server exist for joining servers on bedrock (DNS or App methods), the one is hosted on the server so should be reliable while its live
