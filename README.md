@@ -4,7 +4,7 @@
 + add server "zachhomelab.org"
 
 ## Bedrock
-+ add zachdedoo15 as a friend
++ add zachdedoo15 as a friend, (If its online so is the server)
 + wait a minute or 2 and you should be able to join his world
 + Restart game if it dosent appear in a few minutes
 
